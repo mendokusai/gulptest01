@@ -1,0 +1,24 @@
+{
+  "name": "gulptest01",
+  "version": "1.0.0",
+  "description": "trying out gulptasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mendokusai/gulptest01.git"
+  },
+  "keywords": [
+    "gulp",
+    "node",
+    "tutorial"
+  ],
+  "author": "ryan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mendokusai/gulptest01/issues"
+  },
+  "homepage": "https://github.com/mendokusai/gulptest01"
+}
