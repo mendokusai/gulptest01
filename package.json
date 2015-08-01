@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/mendokusai/gulptest01/issues"
   },
-  "homepage": "https://github.com/mendokusai/gulptest01"
+  "homepage": "https://github.com/mendokusai/gulptest01",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.6"
+  }
 }
